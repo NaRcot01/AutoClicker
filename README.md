@@ -10,7 +10,6 @@ get your mouse position with position.py
 Social Media | ID
 --- | ---
 Telegram | @alojew
-github | NaRcot01
 Discord | The"Sain"#8960
 
 
